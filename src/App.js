@@ -43,7 +43,7 @@ function App() {
   return (
     <div className="container">
       <header className='row'>
-        <h1 >Items management</h1>
+        <h1 className='text-center'>Items management</h1>
       </header>
       <div className='row'>
         <div className="col-4">

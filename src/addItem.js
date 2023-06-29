@@ -36,7 +36,7 @@ function AddItem({ nextID, addProduct, hide }) {
     }
     return (
         <div className="col">
-            Add New Item:
+            <h2>Add New Item:</h2>
             <div className="inputForm">
                 <div>
                     <label htmlFor="itemName">
